@@ -24,4 +24,4 @@ There's 2 versions:
 - mpv      - uses Anime4k HQ shaders - requires powerful high-end PC
 - **mpvLite**  - uses Anime4k Fast shaders - should work on any configuration and is the most optimized and up-to-date version - **RECOMMENDED**
 
-I use mpvLite daily on my laptop which serves as a media player. For references, laptop is a Lenovo Legion Y7000 - i5-9300H - GTX 1650.
+I use mpvLite daily on my laptop which serves as a media center hooked up to the TV. For references, laptop is a Lenovo Legion Y7000 - i5-9300H - GTX 1650.
