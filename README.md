@@ -19,7 +19,9 @@ There's other features I don't really use that often, but I played around a lot 
 
 This project was made some time ago so I don't remember all the little things. It mostly works, I use it everyday, it's my main video player for everything. I don't plan on working on it anymore, but feel free to improve upon it and let me know if anyone's interested.
 
-There's 2 versions: - mpv      - uses Anime4k HQ shaders - requires powerful high-end PC
-                    - **mpvLite**  - uses Anime4k Fast shaders - should work on any configuration and is the most optimized and up-to-date version - **RECOMMENDED**
+There's 2 versions: 
+
+- mpv      - uses Anime4k HQ shaders - requires powerful high-end PC
+- **mpvLite**  - uses Anime4k Fast shaders - should work on any configuration and is the most optimized and up-to-date version - **RECOMMENDED**
 
 I use mpvLite daily on my laptop which serves as a media player. For references, laptop is a Lenovo Legion Y7000 - i5-9300H - GTX 1650.
